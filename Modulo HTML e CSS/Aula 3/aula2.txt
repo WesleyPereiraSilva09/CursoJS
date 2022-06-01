@@ -1,0 +1,5 @@
+/* o ponto refencia a classe */
+/* cerquilha é responsavel por referenciar o id de uma tag ou objeto no css */
+
+o id é um dos elementos do css mais forte, sendo muito dificil de sobreescreve-lo,
+deve se usar outro id para sobre escrever ou usar !importan, algo NÃO RECOMENDADO DE SE FAZER.
