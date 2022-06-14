@@ -1,0 +1,3 @@
+ao utilizar o <strong></strong>, melhora a semantica do text, fazendo com que
+a palavra ou frase seja lida mais forte, visualmente ela deixa em negrito
+o <em></em> faz com que o leitor de enfaze em uma frase por exemplo <em>amoooooo!</em>
